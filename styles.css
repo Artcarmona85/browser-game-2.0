@@ -1,0 +1,33 @@
+.slot-machine {
+    text-align: center;
+  }
+  
+  .reels {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .symbol {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .controls {
+    margin-bottom: 20px;
+  }
+  
+  .balance {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #message {
+    font-weight: bold;
+  }
+  
