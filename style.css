@@ -1,5 +1,3 @@
-/* Slot Machine Styles */
-
 .slot-machine {
   display: flex;
   align-items: center;
@@ -62,4 +60,3 @@ input {
 .balance {
   font-size: 18px;
 }
-s
